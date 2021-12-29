@@ -1,0 +1,26 @@
+{
+  "name": "twittersentimentanalysisserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshitshah4/TwitterSentimentAnalysisServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshitshah4/TwitterSentimentAnalysisServer/issues"
+  },
+  "homepage": "https://github.com/harshitshah4/TwitterSentimentAnalysisServer#readme",
+  "dependencies": {
+    "dotenv": "^9.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.10.1",
+    "mongodb": "^3.6.6"
+  }
+}
